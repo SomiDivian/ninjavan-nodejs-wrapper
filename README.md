@@ -10,20 +10,20 @@
 
 # Features
 
-✅ Authentication
-✅ Tracking
-✅ Create Order
-✅ Create Multiple Orders `custom`
-✅ Generate Waybill
-✅ Cancel Order
-✅ Cancel Multiple Orders `custom`
-✅ Generate Waybill `custom`
-✅ Generate Multiple Waybills `custom`
-✅ Receive Webhook `custom`
-🔥 Bonus: `express()` creates multiple orders and generates waybills, not to mention it takes care of reverse changes when error occurs if you specify so
+- ✅ Authentication
+- ✅ Tracking
+- ✅ Create Order
+- ✅ Create Multiple Orders `custom`
+- ✅ Generate Waybill
+- ✅ Cancel Order
+- ✅ Cancel Multiple Orders `custom`
+- ✅ Generate Waybill `custom`
+- ✅ Generate Multiple Waybills `custom`
+- ✅ Receive Webhook `custom`
+- 🔥 Bonus: `express()` creates multiple orders and generates waybills, not to mention it takes care of reverse changes when error occurs if you specify so
 
-🔴 Mocking Service
-✅ Logging Service
+- 🔴 Mocking Service
+- ✅ Logging Service
 
 ---
 
